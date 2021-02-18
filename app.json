@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "talk",
-    "slug": "talk",
+    "name": "workshop_luby_styledcomponents",
+    "slug": "workshop_luby_styledcomponents",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
